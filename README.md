@@ -4,9 +4,9 @@ SolFi Ear Trainer 3™ (for iPhone, iPad, and iPod touch) is an ear training app
 
 It contains three exercises:
 
-Pitch Dictation - Given a tonic note, one or more notes are played sequentially. The user is asked to annotate the sequence using solfege or pitch names (for perfect pitch/absolute pitch). The user can choose up to four parts.
-Chord Identification - Three or more notes from a specific key are played melodically or harmonically. The user is asked to choose from a given set of chords and inversions.
-Interval Identification - Two notes are played melodically or harmonically. The user is asked to choose from a given set of intervals. This can be used to improved one's relative pitch skills.
+1. Pitch Dictation - Given a tonic note, one or more notes are played sequentially. The user is asked to annotate the sequence using solfege or pitch names (for perfect pitch/absolute pitch). The user can choose up to four parts.
+1. Chord Identification - Three or more notes from a specific key are played melodically or harmonically. The user is asked to choose from a given set of chords and inversions.
+1. Interval Identification - Two notes are played melodically or harmonically. The user is asked to choose from a given set of intervals. This can be used to improved one's relative pitch skills.
 
 
 ## Pitch Dictation
@@ -29,7 +29,8 @@ chords.png
 This exercise will help you distinguish between different intervals. Intervals can be played harmonically/melodically (by changing the bpm setting) and ascending/descending. Correct answers will cause a new interval to play. For incorrect answers, the correct answer will be shown.
 
 intervals.png
-KEYBOARD
+
+## Keyboard
 In landscape mode, a keyboard will appear to help the user with any exercise or just general practice.  When viewed from any exercise, the keyboard will highlight and scroll to the tonic note being used by the current exercise. It will also switch between solfege/letter notes depending on the exercise settings.
 
  
