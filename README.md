@@ -10,7 +10,7 @@ It contains three exercises:
 
 
 ## Pitch Dictation
-This exercise will help improve your listening skills using solfege/pitch names. A melody is played and you must identify each note in the melody using the notes on top. Your answer for each note appears on the bottom. Once you finish, press "Verify" to validate your answer. If your answer is correct, a new melody is played. If it is incorrect, the incorrect notes will be highlighted in red and the correct answer will be shown beneath each incorrect note.
+This exercise will help improve your listening skills using solfege/pitch names. A melody is played and you must identify each note in the melody using the notes on top. Your answer for each note appears on the bottom. Once you finish, press `Verify` to validate your answer. If your answer is correct, a new melody is played. If it is incorrect, the incorrect notes will be highlighted in red and the correct answer will be shown beneath each incorrect note.
 
 ![Pitch Dictation](/pitch.png)
 
