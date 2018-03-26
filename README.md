@@ -37,3 +37,5 @@ In landscape mode, a keyboard will appear to help the user with any exercise or 
 - **Q: In Chord/Interval Identification, how can I hear chords melodically**
 - A: In the preferences, set the `Bpm` setting to be greater than 0.
 
+## Contact
+Email: RANDOMSTUFF -at- CUTDEK -dot- COM
