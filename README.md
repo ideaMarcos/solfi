@@ -1,5 +1,3 @@
-# SolFi Ear Trainer
-
 SolFi Ear Trainer 3™ (for iPhone/iPad) is an ear training application for students of music to improve their listening skills. It contains some basic exercises used by many schools to teach their students. It assumes the user has some knowledge of music theory.
 
 It contains three exercises:
