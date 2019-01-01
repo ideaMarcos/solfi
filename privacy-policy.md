@@ -1,3 +1,6 @@
-SolFi Ear Trainer Privacy Policy
+# SolFi Ear Trainer Privacy Policy
 
-1. We do not collect any information from the app. This includes IP address, geolocation, analytics. **Nothing** is collected.
+* We do not collect any information from the app. This includes IP address, geolocation, analytics. **Nothing** is collected.
+
+## Contact
+Email: RANDOMSTUFF -at- CUTDEK -dot- COM
