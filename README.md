@@ -1,14 +1,12 @@
 # SolFi Ear Trainer
  
-SolFi Ear Trainer 4™ (for iPhone/iPad) is an ear training application for students of music to improve their listening skills. It contains some basic exercises used by many schools to teach their students. It assumes the user has some knowledge of music theory.
+SolFi Ear Trainer (for iPhone/iPad) is an ear training application for students of music to improve their listening skills. It contains some basic exercises used by many schools to teach their students. It assumes the user has some knowledge of music theory.
 
 It contains three exercises:
 
 1. *Pitch Dictation* - Given a tonic note, one or more notes are played sequentially. The user is asked to annotate the sequence using solfege or pitch names (for perfect pitch/absolute pitch). The user can choose up to four parts.
 1. *Chord Identification* - Three or more notes from a specific key are played melodically or harmonically. The user is asked to choose from a given set of chords and inversions.
 1. *Interval Identification* - Two notes are played melodically or harmonically. The user is asked to choose from a given set of intervals. This can be used to improve one's relative pitch skills.
-
-SolFi 4 keeps your SolFi 3 preferences when you update.
 
 
 ## Pitch Dictation
@@ -17,12 +15,12 @@ This exercise will help improve your listening skills using solfege/pitch names.
 ![Pitch Dictation](/pitch.png)
 
 ## Chord Identification
-This exercise will help you distinguish between different chords. Chords can be played harmonically/melodically (by changing the bpm setting) and ascending/descending. Correct answers will cause a new chord to play. For incorrect answers, the correct answer will be shown, and you can play your answer and the correct one to compare them. If your answer has exactly the same notes as the chord played (for example min6 and min7♭5 in 1st inversion), it counts as correct.
+This exercise will help you distinguish between different chords. Chords can be played harmonically/melodically (by changing the bpm setting) and ascending/descending. Correct answers will cause a new chord to play. For incorrect answers, the correct answer will be shown.
 
 ![Chord Identification](/chords.png)
 
 ## Interval Identification
-This exercise will help you distinguish between different intervals. Intervals can be played harmonically/melodically (by changing the bpm setting) and ascending/descending. Correct answers will cause a new interval to play. For incorrect answers, the correct answer will be shown, and you can play your answer and the correct one to compare them.
+This exercise will help you distinguish between different intervals. Intervals can be played harmonically/melodically (by changing the bpm setting) and ascending/descending. Correct answers will cause a new interval to play. For incorrect answers, the correct answer will be shown.
 
 ![Interval Identification](/intervals.png)
 
